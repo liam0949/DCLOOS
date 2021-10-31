@@ -1,5 +1,6 @@
 # Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training (ACL 2021).
-Please refer to [this link](https://github.com/fanolabs/out-of-scope-intent-detection).
+Please refer to [this link](https://github.com/fanolabs/out-of-scope-intent-detection) for the code.
+The open-domain and CLINC150 datasets can be found at [this link](https://drive.google.com/drive/folders/1TqKIebKZfKIulCO9sA50uA01gbsJ_XU3?usp=sharing).
 
 For training:
 
